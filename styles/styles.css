@@ -1,0 +1,14 @@
+/* header styles */
+header {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 200px;
+    color: white;
+    background-image: url('../resources/Banner Image.png');
+    background-repeat: no-repeat;
+    background-position: absolute;
+    width: 100%;
+    height: 600px;
+
+
+}
