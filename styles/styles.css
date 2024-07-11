@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 /* header styles */
 header {
     padding-top: 200px;
@@ -342,4 +346,57 @@ header {
     font-weight: bold;
     margin-top: 20px;
 
+}
+
+/* footer section styles */
+footer {
+    color: white;
+    background-color: #070211;
+    padding: 150px;
+}
+
+.footer-div1 {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+}
+
+.div2-one {
+    display: flex;
+    gap: 10px;
+}
+
+.div2-one img {
+    padding-top: 3px;
+}
+
+.div2-two {
+    display: flex;
+    gap: 10px;
+}
+
+.div2-two img {
+    padding-top: 3px;
+}
+
+.icons-div {
+    padding-left: 450px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-div3 {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    padding-top: 25px;
+}
+
+.footer-div3 button {
+    border: 0;
+    color: #FFFFFF;
+    background-color: #070211;
+    font-size: 15px;
 }
