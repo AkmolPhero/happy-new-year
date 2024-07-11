@@ -34,7 +34,7 @@ header {
     font-weight: bold;
 }
 
-/* 65% off section  */
+/* 65% off section styles */
 .OFF-section {
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -63,4 +63,51 @@ header {
 .offer-image {
     margin-left: 100px;
     width: 50%;
+}
+
+/* midnight-party-section styles */
+.midnight-party-section {
+    display: flex;
+    background-image: linear-gradient(to right, #070211, rgba(7, 2, 17, 0.00)), url('../resources/Vectorrr.png');
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    max-width: 1320px;
+    margin-top: 30px;
+    margin-bottom: 120px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.party-items {
+    padding-left: 150px;
+    padding-right: 50px;
+}
+
+.party-title {
+    font-family: "Merriweather", serif;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: bold;
+    padding-right: 100px;
+}
+
+.party-description {
+    color: #ffffffa0;
+}
+
+.party-button {
+    color: #FFFFFF;
+    background-color: #FF0000;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.party-image {
+    padding-right: 100px;
 }
