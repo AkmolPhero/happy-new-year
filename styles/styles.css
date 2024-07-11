@@ -98,6 +98,7 @@ header {
 .party-description {
     font-family: "Open Sans", sans-serif;
     color: #ffffffa0;
+    font-size: 15px;
 }
 
 .party-button {
@@ -174,6 +175,7 @@ header {
     font-family: "Open Sans", sans-serif;
     color: #070211ad;
     padding-right: 50px;
+    font-size: 15px;
 }
 
 .opt-image {
@@ -200,6 +202,97 @@ header {
 .opt-2024 p {
     font-family: "Open Sans", sans-serif;
     color: #070211ad;
+    font-size: 15px;
 }
 
-.opt-24-img {}
+/* holidays sale section */
+.holidays-sale-section {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 50px;
+}
+
+.holidays-title-one {
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.holidays-title-two {
+    font-family: "Merriweather", serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.holidays-title-two span {
+    color: #FF0000;
+}
+
+.holidays-sale-section p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    color: #070211ad;
+}
+
+.holidays-sale-images {
+    margin: 92px;
+    display: flex;
+    background-image: url('../resources/Rectangle 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1320px 230px;
+    border-radius: 10px;
+}
+
+.holiday-img1 {
+    margin-top: 30px;
+}
+
+.holiday-img2 {
+    margin-top: 30px;
+    background-image: url('../resources/Rectangle 1.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-right: 150px;
+}
+
+/* our awesome portfolio section  */
+.awesome-portfolio-section {
+    margin: 50px;
+    margin-left: 90px;
+}
+
+.portfolio-head {
+    font-family: "Open Sans", sans-serif;
+    color: #FF0000;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.portfolio-title {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.awesome-portfolio-section p {
+    font-family: "Open Sans", sans-serif;
+    color: #070211ad;
+    padding-right: 50px;
+    font-size: 15px;
+}
+
+.image-div1 img {
+    padding: 5px;
+    width: 400px;
+    height: 425px;
+}
+
+.image-div2 img {
+    padding: 5px;
+    width: 400px;
+    height: 425px;
+}
