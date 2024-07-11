@@ -96,6 +96,7 @@ header {
 }
 
 .party-description {
+    font-family: "Open Sans", sans-serif;
     color: #ffffffa0;
 }
 
@@ -145,3 +146,60 @@ header {
     font-weight: bold;
     margin-top: 20px;
 }
+
+/* optional section two  */
+.optional-section-two {
+    display: flex;
+}
+
+.best-offer {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.best-offer-title {
+    font-family: "Open Sans", sans-serif;
+    color: #FF0000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.best-offer-title-two {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.optional-section-two p {
+    font-family: "Open Sans", sans-serif;
+    color: #070211ad;
+    padding-right: 50px;
+}
+
+.opt-image {
+    margin-right: 200px;
+    padding: 20px;
+    border-radius: 100%;
+    border: 10px solid #FF0000;
+}
+
+.opt-2024 {
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-right: 30px;
+
+}
+
+.opt-24-title {
+    font-family: "Open Sans", sans-serif;
+    color: #FF0000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.opt-2024 p {
+    font-family: "Open Sans", sans-serif;
+    color: #070211ad;
+}
+
+.opt-24-img {}
